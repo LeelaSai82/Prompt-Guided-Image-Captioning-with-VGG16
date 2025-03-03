@@ -3,6 +3,9 @@
 📌 Project Overview
 This project presents a system where users can submit images, and the system generates descriptive captions based on the image content using natural language queries. The model leverages VGG16 for feature extraction and YOLOv8 for activity recognition. This approach enhances interaction between visual data and contextual inquiries, making it useful for applications in accessibility technology, media analysis, and surveillance.
 
+![image](https://github.com/user-attachments/assets/e0dc5d2d-a7ec-480d-b591-262231da7e21)
+
+
 🚀 Features
 ✅ Image Upload & Processing: Users can upload images for automatic caption generation.
 ✅ Deep Learning-Based Captioning: Uses VGG16 for feature extraction and YOLOv8 for activity recognition.
